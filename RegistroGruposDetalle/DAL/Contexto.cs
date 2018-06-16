@@ -1,9 +1,10 @@
-﻿using System;
+﻿using RegistroGruposDetalle.Entidades;
+using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
-using System.Data.Entity;
-using RegistroGruposDetalle.Entidades;
+using System.Threading.Tasks;
 
 namespace RegistroGruposDetalle.DAL
 {
